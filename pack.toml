@@ -1,0 +1,13 @@
+name = "Piuvas Packwiz"
+author = "piuvas"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a28802216a05b7b118635f8c7d22bbb2f68c25cfa0206687cd222614a40aac21"
+
+[versions]
+fabric = "0.12.2"
+minecraft = "1.17.1"
