@@ -6,7 +6,11 @@ pack-format = "packwiz:1.0.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "843de9198787a685c90217a7af79c4f38f44768b7d861524baa37e1168a2f033"
+=======
+hash = "72c8630b6073f513da0fa97c5ec0f9718daa584bfaa71d81075c7800a6e60eec"
+>>>>>>> parent of 9b5481b (d)
 
 [versions]
 fabric = "0.12.2"
