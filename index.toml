@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/op-items-tab.toml"
-hash = "493cafa1d6a1d781a2062ac4757831d1514ea1229bd5501f9bedcbd8b2b4695b"
+hash = "c505f3b4a713844bfcb1ed7c77c456733f632cf805811c188210bb2bc089799a"
 metafile = true
 
 [[files]]
