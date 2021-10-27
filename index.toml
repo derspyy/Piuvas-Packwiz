@@ -131,3 +131,73 @@ hash = "6fff22571b63560b8ae0c25ff31d525de420e0d2cef9aa4ab21ac79fd6812c8e"
 [[files]]
 file = ".gitattributes"
 hash = "1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b"
+
+[[files]]
+file = "mods/animatica.toml"
+hash = "0f832605c4764af1bf759fd26fb11bbe23b9eb3580f75a8999d5431a0ea98738"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.toml"
+hash = "de7909b64bb66c887516f538e64decc7a52c29531ab6bb01f53eb2ec3557a773"
+metafile = true
+
+[[files]]
+file = "mods/continuity.toml"
+hash = "dc02fc9546da6c49e2d0991e7bec98a465cd88e17a5ec9e2efc806f8f1d37003"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "31ac7e90238cee7ee04c0442ab8a3c2a8cf40f298cafb3f31118cbb36b2c4e4b"
+metafile = true
+
+[[files]]
+file = "mods/ebe.toml"
+hash = "72a4338b738c76967bd08f1aedb2f7760afa0de1dcdad352c9604363abe1a840"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "8783fffeefc606aeac7b1ca2b8aa2e7e6d7e31d956ff02af879ffb4fa9a5159e"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "767eea9287ca8b5f73fc9778d8fd653ebe8118bb8734c8b370bd255c262fd210"
+metafile = true
+
+[[files]]
+file = "mods/figura.toml"
+hash = "6522cd950b9b686e094c13ce9f5c69c1794dde79665659e06500270635bb213a"
+metafile = true
+
+[[files]]
+file = "mods/hydrogen.toml"
+hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "01f54d293d1008f22f8cfc9a43b4c8e5473d882c2ed7ca667cbcf55ae4d638bc"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "5a50deb77add78a3ad5f37c7ecf0cf3b4096c1359605b4082064ca978f080cdf"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "d815ffd6112df95b8448fb22732937595d2df99bbde9160a31e58944640686ca"
+metafile = true
