@@ -198,6 +198,11 @@ hash = "5a50deb77add78a3ad5f37c7ecf0cf3b4096c1359605b4082064ca978f080cdf"
 metafile = true
 
 [[files]]
+file = "mods/op-items-tab.toml"
+hash = "493cafa1d6a1d781a2062ac4757831d1514ea1229bd5501f9bedcbd8b2b4695b"
+metafile = true
+
+[[files]]
 file = "mods/sodium.toml"
 hash = "d815ffd6112df95b8448fb22732937595d2df99bbde9160a31e58944640686ca"
 metafile = true
