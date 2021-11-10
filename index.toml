@@ -71,6 +71,11 @@ hash = "e1aea49ed8a6f2af853793ee649e69d27d872b080c4a4a30264a42022a4eabed"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.toml"
+hash = "168ad4b92ff8527130a1c0bf337c5e4867debb41a6fc06f2fa2cbc46f0b358a4"
+metafile = true
+
+[[files]]
 file = "mods/sodium.toml"
 hash = "d815ffd6112df95b8448fb22732937595d2df99bbde9160a31e58944640686ca"
 metafile = true
