@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "532a85cc714a146876b4ba9c8a25a71ebfd3e136f96b1028724d314cf591577d"
+hash = "ed7cd7a11952155583a80c1b54231b84e5b26e1c8642304469a3d20d5f6b7ed3"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
+hash = "2b199deceff30e132074d9850f16e5ff990808eabf36a5ba95af0f521a2eb85f"
 metafile = true
 
 [[files]]
