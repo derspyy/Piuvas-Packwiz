@@ -6,6 +6,16 @@ hash = "92eab931314c02773c8466741e070791a94ade517298b49441b116e1c2da2a94"
 metafile = true
 
 [[files]]
+file = "mods/krypton.toml"
+hash = "a861427308bb3d77c9ca0867e5cae8fed89b5eb3a08d0af9604be1e43e17fc28"
+metafile = true
+
+[[files]]
+file = "mods/lazy-language-loader.toml"
+hash = "059173a78ea594a22cabc287b6e2c0469e7f36d0f02be8b9fc78661f9df6e08d"
+metafile = true
+
+[[files]]
 file = "mods/sodium.toml"
 hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
 metafile = true
