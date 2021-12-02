@@ -1,0 +1,13 @@
+name = "No Telemetry"
+filename = "no-telemetry-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hg77g4Pw/versions/1.1.0/no-telemetry-1.1.0.jar"
+hash-format = "sha512"
+hash = "c938fbead6c4e65161d10acc4e2cd4426e07e3d387677d8ae3c8b71db13520a58ce26dab1f7e9d753acbd69d064c54f2753a6509f16f0a8827690616b7e3d2ce"
+
+[update]
+[update.modrinth]
+mod-id = "hg77g4Pw"
+version = "xvywwkcN"

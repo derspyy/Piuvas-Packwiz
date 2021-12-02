@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/custom-lan.toml"
+hash = "cc54811d279f5ef07dbec15e3d82e12e9bda7090f419282dc1e1fdd3ff8f4756"
+metafile = true
+
+[[files]]
 file = "mods/iris.toml"
 hash = "92eab931314c02773c8466741e070791a94ade517298b49441b116e1c2da2a94"
 metafile = true
@@ -8,6 +13,21 @@ metafile = true
 [[files]]
 file = "mods/krypton.toml"
 hash = "a861427308bb3d77c9ca0867e5cae8fed89b5eb3a08d0af9604be1e43e17fc28"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.toml"
+hash = "c9357a763999bcfb92e6f6b087c924a7c14ef39a84973b119c036ec762ebf77c"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.toml"
+hash = "6426492ed99683fdb47bef0457c0fd9e45af4791b0781a55f8beb5e86209bb62"
 metafile = true
 
 [[files]]
