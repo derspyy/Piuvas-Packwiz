@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.toml"
-hash = "c9357a763999bcfb92e6f6b087c924a7c14ef39a84973b119c036ec762ebf77c"
+hash = "d893f12bb1254540fb7991c86d393bb73dc20d383d1dc091cde31219c9ef09dd"
 metafile = true
 
 [[files]]
