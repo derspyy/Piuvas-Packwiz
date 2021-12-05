@@ -11,6 +11,16 @@ hash = "864329de81fafe66db52473703b7988e9c732b4549fc7f5c1d0f460e9f14340e"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.toml"
+hash = "4bb58d967d9a940a6fba0e9155dbce5e4deed6a86ead3f913648ed64be570162"
+metafile = true
+
+[[files]]
+file = "mods/continuity.toml"
+hash = "4d3086d640c86bf3625ce9067d02d9ed586d23ff6bd3398655fd2fbfdce83de6"
+metafile = true
+
+[[files]]
 file = "mods/custom-lan.toml"
 hash = "cc54811d279f5ef07dbec15e3d82e12e9bda7090f419282dc1e1fdd3ff8f4756"
 metafile = true
@@ -18,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.toml"
 hash = "8f7148ddea91eb8e149e84a07d378d4c0cf12223ca12689036a600672bd24554"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "ee1384200c35fee039a2a6f95a62a7de25340cd831521a0a90ab82b94b36e951"
 metafile = true
 
 [[files]]
@@ -33,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.toml"
 hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "2d7ffe826eb733f7ef787dd74b239b458c6d18666c56b19a998cbac3fcaf8222"
 metafile = true
 
 [[files]]
