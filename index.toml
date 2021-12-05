@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.toml"
-hash = "d893f12bb1254540fb7991c86d393bb73dc20d383d1dc091cde31219c9ef09dd"
+hash = "e8814a83e235e82705f7fbccc5f91c8b1a0b679af439e38ab48f0ddafa623db7"
 metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.toml"
-hash = "6426492ed99683fdb47bef0457c0fd9e45af4791b0781a55f8beb5e86209bb62"
+hash = "df4c27923d2f359972dd4cc963e4d5af9c8371b8bca6c0260427de7e4857c037"
 metafile = true
 
 [[files]]
