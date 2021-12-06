@@ -36,11 +36,6 @@ hash = "ee1384200c35fee039a2a6f95a62a7de25340cd831521a0a90ab82b94b36e951"
 metafile = true
 
 [[files]]
-file = "mods/gldown.toml"
-hash = "5176d3e5d181e109b01cd28c5b1237f963149e7a3a8fe26e6ee58f458fb9b7f4"
-metafile = true
-
-[[files]]
 file = "mods/iris.toml"
 hash = "92eab931314c02773c8466741e070791a94ade517298b49441b116e1c2da2a94"
 metafile = true
