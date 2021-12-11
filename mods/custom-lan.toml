@@ -5,7 +5,7 @@ side = "client"
 [download]
 url = "https://cdn.modrinth.com/data/OCvCFPNR/versions/1.18-v2.0.1/custom-lan-1.18-v2.0.1.jar"
 hash-format = "sha512"
-hash = "9ff1287ede188f45d27fc4949e694b278808188a49bc5a2f8414bbc50022b1e23f5106cf271679bf66a32caacdf9cdfbd37b366c72f468acfefebf499ce8fd77"
+hash = "dc5e6ede149df2d50aae445c32aaa24af42a41dfd267fe08c541d6ce5b5ebc936f7ba789def7b4cbbc6bcb8254041a0681ada1ac886434c78b93bda2592e4889"
 
 [update]
 [update.modrinth]

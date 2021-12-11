@@ -1,28 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/bedrockskinutility.toml"
-hash = "606ffbce2be63253ec09ba3c496f6cc72e12cf54d031237bf82001910141d5dd"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.toml"
-hash = "864329de81fafe66db52473703b7988e9c732b4549fc7f5c1d0f460e9f14340e"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.toml"
 hash = "4bb58d967d9a940a6fba0e9155dbce5e4deed6a86ead3f913648ed64be570162"
 metafile = true
 
 [[files]]
-file = "mods/continuity.toml"
-hash = "4d3086d640c86bf3625ce9067d02d9ed586d23ff6bd3398655fd2fbfdce83de6"
-metafile = true
-
-[[files]]
 file = "mods/custom-lan.toml"
-hash = "cc54811d279f5ef07dbec15e3d82e12e9bda7090f419282dc1e1fdd3ff8f4756"
+hash = "3d1ae3b20ccd3ace88c82d1a6b33d98f3be4bb1ce9a818c5870902db3d573ba0"
 metafile = true
 
 [[files]]
@@ -31,18 +16,18 @@ hash = "8f7148ddea91eb8e149e84a07d378d4c0cf12223ca12689036a600672bd24554"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.toml"
-hash = "ee1384200c35fee039a2a6f95a62a7de25340cd831521a0a90ab82b94b36e951"
+file = "mods/iris.toml"
+hash = "51459057d731fd7508b48ab92ced48499346ec712b9c8d4f6eebe20c9dc2651c"
 metafile = true
 
 [[files]]
-file = "mods/iris.toml"
-hash = "92eab931314c02773c8466741e070791a94ade517298b49441b116e1c2da2a94"
+file = "mods/kappa.toml"
+hash = "4ad083e59a3afc403f0cbb29715aec65d5d7556f157419127ee17913b817192f"
 metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "a861427308bb3d77c9ca0867e5cae8fed89b5eb3a08d0af9604be1e43e17fc28"
+hash = "ffa430c24d8d6862b804c483a9070340fd3a89f858f8a5869b715534a06a04de"
 metafile = true
 
 [[files]]
@@ -51,21 +36,11 @@ hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
 metafile = true
 
 [[files]]
-file = "mods/lithium.toml"
-hash = "2d7ffe826eb733f7ef787dd74b239b458c6d18666c56b19a998cbac3fcaf8222"
-metafile = true
-
-[[files]]
-file = "mods/no-telemetry.toml"
-hash = "e8814a83e235e82705f7fbccc5f91c8b1a0b679af439e38ab48f0ddafa623db7"
-metafile = true
-
-[[files]]
 file = "mods/plasmo-voice.toml"
 hash = "df4c27923d2f359972dd4cc963e4d5af9c8371b8bca6c0260427de7e4857c037"
 metafile = true
 
 [[files]]
-file = "mods/sodium.toml"
-hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
+file = "mods/tiefix.toml"
+hash = "72a0c1c7bd0e17a7d31e7aaf6beaad2ba959353c9cbafef77844952ba6b5b753"
 metafile = true
