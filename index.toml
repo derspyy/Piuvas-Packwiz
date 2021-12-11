@@ -41,6 +41,11 @@ hash = "df4c27923d2f359972dd4cc963e4d5af9c8371b8bca6c0260427de7e4857c037"
 metafile = true
 
 [[files]]
+file = "mods/sodium.toml"
+hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
+metafile = true
+
+[[files]]
 file = "mods/tiefix.toml"
 hash = "72a0c1c7bd0e17a7d31e7aaf6beaad2ba959353c9cbafef77844952ba6b5b753"
 metafile = true
