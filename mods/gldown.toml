@@ -1,0 +1,13 @@
+name = "GLdown"
+filename = "gldown-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A49lhC62/versions/1.0.1/gldown-1.0.1.jar"
+hash-format = "sha512"
+hash = "111506316ce6e8dc9f7830281cdd1b867fb49709d2cea161c7469f781c4a199264898b079d22a1535258cb61be674ca08e138fd5a9de902365dc9aa231f7d53e"
+
+[update]
+[update.modrinth]
+mod-id = "A49lhC62"
+version = "AEfT3nRd"
