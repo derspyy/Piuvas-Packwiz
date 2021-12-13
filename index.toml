@@ -69,3 +69,8 @@ metafile = true
 file = "mods/tiefix.toml"
 hash = "72a0c1c7bd0e17a7d31e7aaf6beaad2ba959353c9cbafef77844952ba6b5b753"
 metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.toml"
+hash = "3085d7175935466f2efbe3424e78d151bc1cd31eef97c6b1c8673d631224bab0"
+metafile = true
