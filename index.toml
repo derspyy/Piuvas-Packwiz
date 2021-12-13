@@ -51,11 +51,6 @@ hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
 metafile = true
 
 [[files]]
-file = "mods/lithium.toml"
-hash = "2d7ffe826eb733f7ef787dd74b239b458c6d18666c56b19a998cbac3fcaf8222"
-metafile = true
-
-[[files]]
 file = "mods/plasmo-voice.toml"
 hash = "df4c27923d2f359972dd4cc963e4d5af9c8371b8bca6c0260427de7e4857c037"
 metafile = true
