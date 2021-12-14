@@ -1,13 +1,13 @@
 name = "Plasmo Voice"
-filename = "plasmovoice-fabric-1.18-1.2.8.jar"
+filename = "plasmovoice-fabric-1.18.1-1.2.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/fabric-1.18-1.2.8/plasmovoice-fabric-1.18-1.2.8.jar"
+url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/fabric-1.18-1.2.9/plasmovoice-fabric-1.18.1-1.2.9.jar"
 hash-format = "sha512"
-hash = "748f523f1e631ae18f436a043c1a7b242488d53a5a4ea4ad7b41c8027b54a452d3bb25aeb3246ecd589c319b1fc21b6af78ba8998aae37c9a758e070cde1d71f"
+hash = "e9fe30ed397a3e322157d204e0eb618ed0d6706c707a5efa3caac0ee06d81757b479821fa1a34cfc97a2f9f1c65f2a748be26b4a47ae39f399ad64dcb706e875"
 
 [update]
 [update.modrinth]
 mod-id = "1bZhdhsH"
-version = "nJFN8sJe"
+version = "apgep7HE"
