@@ -6,6 +6,11 @@ hash = "4bb58d967d9a940a6fba0e9155dbce5e4deed6a86ead3f913648ed64be570162"
 metafile = true
 
 [[files]]
+file = "mods/continuity.toml"
+hash = "4d3086d640c86bf3625ce9067d02d9ed586d23ff6bd3398655fd2fbfdce83de6"
+metafile = true
+
+[[files]]
 file = "mods/custom-lan.toml"
 hash = "3d1ae3b20ccd3ace88c82d1a6b33d98f3be4bb1ce9a818c5870902db3d573ba0"
 metafile = true
