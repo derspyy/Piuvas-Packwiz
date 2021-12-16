@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/cem.toml"
+hash = "84736dff13eb506b1cedcdb7a359bb0af143b987696e382e7502591d51c65ac2"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.toml"
 hash = "4bb58d967d9a940a6fba0e9155dbce5e4deed6a86ead3f913648ed64be570162"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.toml"
+hash = "f63a41866d3ab43c1e67f7e860af9b1291f82dd06a068483f74166e46f488746"
 metafile = true
 
 [[files]]
