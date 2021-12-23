@@ -66,6 +66,11 @@ hash = "465afb925dc6ee39704b7456750b7ada5d1000b951faadfab590efb4c5342049"
 metafile = true
 
 [[files]]
+file = "mods/phosphor.toml"
+hash = "b5e2c3c08224e46e840c739f0b77bb22949373cc76d0ba90ddb22e52ecaa04c7"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.toml"
 hash = "88434fbde54b61254d3d0adea22de30f5c3660163a44ec7fdf64a1c2c2be4811"
 metafile = true
