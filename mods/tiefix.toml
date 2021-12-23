@@ -1,13 +1,13 @@
 name = "TieFix"
-filename = "TieFix-1.7.1.jar"
+filename = "TieFix-1.8.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jxuxsA0D/versions/1.7.1/TieFix-1.7.1.jar"
+url = "https://cdn.modrinth.com/data/jxuxsA0D/versions/1.8.0/TieFix-1.8.0.jar"
 hash-format = "sha512"
-hash = "7210225181323e456ecf08816d820f3561c1adb3ba69f72196024a1d67d30cf5dcb531bd5fd343ad997b838080884820f4e5b1471f6bb1cac4ec48e161f0a86c"
+hash = "00cb8981f58f9ba4e1929e4c7e5864c6015e2d2e3eeab7d315e4fa436b8d5332854714277b175b0a89251f06bca11e3bee0f0bcbb2deb15c129eabc8609567b0"
 
 [update]
 [update.modrinth]
 mod-id = "jxuxsA0D"
-version = "M4v7mmMH"
+version = "JswKuZpK"

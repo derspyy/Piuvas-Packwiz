@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "8f7148ddea91eb8e149e84a07d378d4c0cf12223ca12689036a600672bd24554"
+hash = "cee87208262c3596ed5179b451752b22978a15416385ea9f6a00e2f8b5101848"
 metafile = true
 
 [[files]]
@@ -77,5 +77,5 @@ metafile = true
 
 [[files]]
 file = "mods/tiefix.toml"
-hash = "72a0c1c7bd0e17a7d31e7aaf6beaad2ba959353c9cbafef77844952ba6b5b753"
+hash = "90bc891202a1ab6fcdaa8833f9482f918887dcf9829aaf21505578d00583bc79"
 metafile = true
