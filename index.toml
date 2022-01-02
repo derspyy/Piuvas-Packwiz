@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "4bb58d967d9a940a6fba0e9155dbce5e4deed6a86ead3f913648ed64be570162"
+hash = "662c4290b6cb893f17754badc199be1069f435e3fda28ee4aed876892a465162"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "465afb925dc6ee39704b7456750b7ada5d1000b951faadfab590efb4c5342049"
+hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
 metafile = true
 
 [[files]]
