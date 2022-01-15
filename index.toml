@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "662c4290b6cb893f17754badc199be1069f435e3fda28ee4aed876892a465162"
+hash = "32339cfe26fd77e2eefce8e5a549e580c6f68b4426a5d399398d9dec9f2740c2"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "177d9e7706d685b7d8b8f964702aac4f9bd080687ee1496fc289f295056b8a23"
+hash = "89f5ed5d28ea532046afeb96cb51ec7e450729e2e201011706cc0612a7d18c49"
 metafile = true
 
 [[files]]
