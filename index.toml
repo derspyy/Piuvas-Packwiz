@@ -21,11 +21,6 @@ hash = "3d1ae3b20ccd3ace88c82d1a6b33d98f3be4bb1ce9a818c5870902db3d573ba0"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.toml"
-hash = "36471e198f8b19256c3daaba6afdcacb55801206446a7bdf5bd75f8c2e4c95b6"
-metafile = true
-
-[[files]]
 file = "mods/ebe.toml"
 hash = "c58834af10ab46edeb4946b55f4d71cf9bced4d37aef0ee122a5a7e4e9e17153"
 metafile = true
