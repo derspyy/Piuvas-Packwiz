@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "4d3086d640c86bf3625ce9067d02d9ed586d23ff6bd3398655fd2fbfdce83de6"
+hash = "006a14c972eaeaea050b9e4e0d024f8782c2fe44e5f7a502eb392e9aa7793bae"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
+hash = "3fba2888b45044b8e058b6be4ffd8fe1241eace50004b76b6576dd5e78843a5a"
 metafile = true
 
 [[files]]
