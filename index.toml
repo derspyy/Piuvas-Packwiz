@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/bedrockskinutility.toml"
+hash = "ead1756eb3ac87a7689a6abc45e99fa9da82c09dedb29a0becb00c0d67b9987c"
+metafile = true
+
+[[files]]
 file = "mods/cem.toml"
 hash = "84736dff13eb506b1cedcdb7a359bb0af143b987696e382e7502591d51c65ac2"
 metafile = true
