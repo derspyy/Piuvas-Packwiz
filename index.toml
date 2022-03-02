@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "da62be08037c326851ea1443be7532120dc09b24aac93144120126717d6813d1"
+hash = "02f05c1580b70e3cfcd029a0b7ed57657cbfceab80224ebe27e0be09a369ffce"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "89f5ed5d28ea532046afeb96cb51ec7e450729e2e201011706cc0612a7d18c49"
+hash = "e0df87d5222af05343a3432bae50faf773df9b78f82a00f183d66b10524ad0a3"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "ffa430c24d8d6862b804c483a9070340fd3a89f858f8a5869b715534a06a04de"
+hash = "492ccef1b220ed135344c864959b560fcedb53a40d2c828af92c2ad59d873512"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "1f04100ac9ec2dd3d54ad14b91fe5421549704f40e5a8447f842195a041facd8"
+hash = "0c83c344046d0b96fd7dcd9e5c98c44caa3d307126d502f202dba50855304fb9"
 metafile = true
 
 [[files]]
