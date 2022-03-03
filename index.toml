@@ -27,12 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "02f05c1580b70e3cfcd029a0b7ed57657cbfceab80224ebe27e0be09a369ffce"
-metafile = true
-
-[[files]]
-file = "mods/ferrite-core.toml"
-hash = "3590b0046a05328fa8f4f3d499be14514002d8658879b600b5e2a46f60f85783"
+hash = "e8346ec94b3fddecd95fe47a4e9f021deee726f9a08d7528b6e37522a49b9c04"
 metafile = true
 
 [[files]]
