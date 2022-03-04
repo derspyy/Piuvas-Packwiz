@@ -31,6 +31,11 @@ hash = "e8346ec94b3fddecd95fe47a4e9f021deee726f9a08d7528b6e37522a49b9c04"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.toml"
+hash = "263be2d355829560e28a8f8600de3beb98eec20d4f03b0ac78504991b947371c"
+metafile = true
+
+[[files]]
 file = "mods/gldown.toml"
 hash = "2c427789543f276864e54ae8fbfcb58c09b67b19fae65eb36e19381c956df84b"
 metafile = true
