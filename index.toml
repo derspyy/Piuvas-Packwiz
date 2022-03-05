@@ -6,6 +6,11 @@ hash = "ead1756eb3ac87a7689a6abc45e99fa9da82c09dedb29a0becb00c0d67b9987c"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.toml"
+hash = "1c09ba69d8194333873125194bc49aa6fa90597f180b99fb37893747604e8079"
+metafile = true
+
+[[files]]
 file = "mods/cem.toml"
 hash = "84736dff13eb506b1cedcdb7a359bb0af143b987696e382e7502591d51c65ac2"
 metafile = true
