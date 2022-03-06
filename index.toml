@@ -21,8 +21,13 @@ hash = "4c4a87a05ed89f6a0a99b2783c9c4e9dfdaef462fed8ff88bd73d27da73d4ed5"
 metafile = true
 
 [[files]]
+file = "mods/continuity.toml"
+hash = "642eedf14c0875215d1d15a39ecab4b1bfcec093e43626cb002f2c890f78c520"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
-hash = "e8346ec94b3fddecd95fe47a4e9f021deee726f9a08d7528b6e37522a49b9c04"
+hash = "1a05f8e35c6cd12e56238adc14e586ec10b6e0413fb472d6d648f5541d4daeea"
 metafile = true
 
 [[files]]
@@ -56,6 +61,11 @@ hash = "492ccef1b220ed135344c864959b560fcedb53a40d2c828af92c2ad59d873512"
 metafile = true
 
 [[files]]
+file = "mods/lazy-language-loader.toml"
+hash = "6d4dc7f1d53a99efa4cf755fc08253a0d06128f7abccc603c86b37b05bae98e8"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.toml"
 hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
 metafile = true
@@ -63,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.toml"
 hash = "64a4b886ff13e45a06ae3714f4ec3fd5c15a1a4e0573df1cdfa35d673eec45ad"
+metafile = true
+
+[[files]]
+file = "mods/mcwifipnp.toml"
+hash = "a022f0fa7e5656e6cf21ff805d6d00bb2d01a242372a92511691089cd87eaea0"
 metafile = true
 
 [[files]]
