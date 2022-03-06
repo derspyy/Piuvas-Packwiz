@@ -76,11 +76,6 @@ hash = "64a4b886ff13e45a06ae3714f4ec3fd5c15a1a4e0573df1cdfa35d673eec45ad"
 metafile = true
 
 [[files]]
-file = "mods/mcwifipnp.toml"
-hash = "a022f0fa7e5656e6cf21ff805d6d00bb2d01a242372a92511691089cd87eaea0"
-metafile = true
-
-[[files]]
 file = "mods/phosphor.toml"
 hash = "b5e2c3c08224e46e840c739f0b77bb22949373cc76d0ba90ddb22e52ecaa04c7"
 metafile = true
