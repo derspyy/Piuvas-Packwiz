@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "1a05f8e35c6cd12e56238adc14e586ec10b6e0413fb472d6d648f5541d4daeea"
+hash = "59cedfbefe7c2657cdd674e3559235fbfcc16217266a6f70515c39c15b141f6c"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "329ad4202e00111815c4dd7121a667019eadfbdabcf9371f952f5a16b2098cb2"
+hash = "89a1ad95dd9ccb136f9b995d9f63d8bc221a6e6acc3c8a596ab825ff46170186"
 metafile = true
 
 [[files]]
