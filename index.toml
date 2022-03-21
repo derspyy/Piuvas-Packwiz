@@ -89,8 +89,3 @@ metafile = true
 file = "mods/sodium.toml"
 hash = "0c83c344046d0b96fd7dcd9e5c98c44caa3d307126d502f202dba50855304fb9"
 metafile = true
-
-[[files]]
-file = "mods/tiefix.toml"
-hash = "26d2dc9abe46668f6b884bde739d0faae776b956e87f2c13f253fdf1aa919083"
-metafile = true
