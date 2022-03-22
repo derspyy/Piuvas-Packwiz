@@ -76,6 +76,11 @@ hash = "64a4b886ff13e45a06ae3714f4ec3fd5c15a1a4e0573df1cdfa35d673eec45ad"
 metafile = true
 
 [[files]]
+file = "mods/phosphor.toml"
+hash = "b5e2c3c08224e46e840c739f0b77bb22949373cc76d0ba90ddb22e52ecaa04c7"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.toml"
 hash = "1754cb3e21a8732d329328a3ccc65e25977eb40e1d4f9ba4f3e57cb60bfd423a"
 metafile = true
@@ -88,9 +93,4 @@ metafile = true
 [[files]]
 file = "mods/spark.toml"
 hash = "876706fed00aa097c8a72fa378f225321aa886658001d679355d784a2772e0de"
-metafile = true
-
-[[files]]
-file = "mods/starlight.toml"
-hash = "ab37bb833d205f015f036157645e05a61c837b7e1f9e0132bfa8a6b14c8064a6"
 metafile = true
