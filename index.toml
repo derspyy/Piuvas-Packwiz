@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/cem.toml"
-hash = "84736dff13eb506b1cedcdb7a359bb0af143b987696e382e7502591d51c65ac2"
+hash = "9dff3a7a38420efbc6680d3073e3d79e417d48e51b172979b39941c00d23d027"
 metafile = true
 
 [[files]]
