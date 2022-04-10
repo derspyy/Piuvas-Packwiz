@@ -26,8 +26,18 @@ hash = "642eedf14c0875215d1d15a39ecab4b1bfcec093e43626cb002f2c890f78c520"
 metafile = true
 
 [[files]]
+file = "mods/debugify.toml"
+hash = "f2eb093cb13f3cc1f0e137e9e579e848a2df5fa334c54ecc37a671e76aa20cae"
+metafile = true
+
+[[files]]
 file = "mods/ebe.toml"
 hash = "c54828ea5dbf68713a260dec92054158ee4e9632a0288640ebe2275a369f9a62"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.toml"
+hash = "b25b3e65687162fe6b6b880b945a2841c3f15d03afd3ff95f0d84eae3f7220f7"
 metafile = true
 
 [[files]]
@@ -53,11 +63,6 @@ metafile = true
 [[files]]
 file = "mods/iris.toml"
 hash = "89a1ad95dd9ccb136f9b995d9f63d8bc221a6e6acc3c8a596ab825ff46170186"
-metafile = true
-
-[[files]]
-file = "mods/kappa.toml"
-hash = "6363596c5cb5959ee0905e42c305b27934f169e634eaffc6ca268623c2410915"
 metafile = true
 
 [[files]]

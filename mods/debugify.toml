@@ -1,0 +1,13 @@
+name = "Debugify"
+filename = "debugify-fabric-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/1.7.0-fabric/debugify-fabric-1.7.0.jar"
+hash-format = "sha512"
+hash = "f4ef3a6bdccb214af175de7cc45a47920fc4a174d2b8b4164bcd1fdb91e3aed2b6298b9a3885da41bc46e65e3b428fa2ebbd2423453f03e2aff1624caaa6a41b"
+
+[update]
+[update.modrinth]
+mod-id = "QwxR6Gcd"
+version = "tWRyPcFL"
