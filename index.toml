@@ -96,6 +96,11 @@ hash = "1754cb3e21a8732d329328a3ccc65e25977eb40e1d4f9ba4f3e57cb60bfd423a"
 metafile = true
 
 [[files]]
+file = "mods/raised.toml"
+hash = "4d802602489d742ccd2aef0142123779a171a4994ffa70a24f2eb6690500cb98"
+metafile = true
+
+[[files]]
 file = "mods/sodium.toml"
 hash = "0c83c344046d0b96fd7dcd9e5c98c44caa3d307126d502f202dba50855304fb9"
 metafile = true
