@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "f2eb093cb13f3cc1f0e137e9e579e848a2df5fa334c54ecc37a671e76aa20cae"
+hash = "829abbef68a562e9311d3d2aa391a11e7b8dda9e8df2ae60e478a11bc774b0ed"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "59cedfbefe7c2657cdd674e3559235fbfcc16217266a6f70515c39c15b141f6c"
+hash = "2bf7290cf5176c4edc6dc9eab8fbaf2b516c8fa3348acfdac83efca5a695658d"
 metafile = true
 
 [[files]]
