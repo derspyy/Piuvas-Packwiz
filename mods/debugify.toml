@@ -1,13 +1,13 @@
 name = "Debugify"
-filename = "debugify-fabric-1.7.2.jar"
+filename = "debugify-1.8.1-fabric-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/1.7.2-fabric/debugify-fabric-1.7.2.jar"
+url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/1.8.1-fabric/debugify-1.8.1-fabric-1.18.2.jar"
 hash-format = "sha512"
-hash = "d48cab2a564975e2577cd8a7e1ae0b83c902394381b95a411e39146fe02fa6a733dfb771559dc26860f263d0f8e4e83e81ec57317521156f3104748b6defe506"
+hash = "f72f5654b56c8e4f89ce4efd3883383dd0d753084d61d3224ff1e92d901e80e4c7b53870b837311e9bd1357c0ed55657d1bc08c968e85f254f8dcacf08e20561"
 
 [update]
 [update.modrinth]
 mod-id = "QwxR6Gcd"
-version = "CSWmF24f"
+version = "7WXEKPNx"
