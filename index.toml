@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "048ef1a4187c2754202034691e11bca011ae59869df6399afd9a2b7c7d9cc40d"
+hash = "3c6d2d6aa83c3d0be1333c5015540630139c41890eb2cc483ef9f97ccc2c5cd3"
 metafile = true
 
 [[files]]
@@ -93,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.toml"
 hash = "1754cb3e21a8732d329328a3ccc65e25977eb40e1d4f9ba4f3e57cb60bfd423a"
+metafile = true
+
+[[files]]
+file = "mods/quilt-loading-screen.toml"
+hash = "372dbd8b7394ee50d24298b092017689dbec5962658221d0bcc5ee492076d860"
 metafile = true
 
 [[files]]
