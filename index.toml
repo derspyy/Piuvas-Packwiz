@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "755dcf82033f3c1605bc2e44235066d5de2b46bb0e57faa47f9f6c433de722df"
+hash = "9d5d339c329cb7e2a8c7540da5dff5e81cb99b769986c3f88fcfa17d21477f18"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.toml"
-hash = "8725ecd93d424fbde33676ca47f75ddd51ac33b4389b1670a977b934ece49e69"
+hash = "82bf62a035b5d56ac6f1da8e70f6e321e22edc7fc662e5f744e5414fed65a447"
 metafile = true
 
 [[files]]
