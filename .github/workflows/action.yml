@@ -13,6 +13,7 @@ jobs:
             - name: Setup Packwiz
               run: go install github.com/packwiz/packwiz@latest
             - name: Update
-              run: echo 'EOF' >> 'Y'
-              run: packwiz update --all
+              run: |
+                echo 'EOF' >> 'Y'
+                packwiz update --all
             - uses: stefanzweifel/git-auto-commit-action@v4
