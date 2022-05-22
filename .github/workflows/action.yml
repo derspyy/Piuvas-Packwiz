@@ -15,5 +15,4 @@ jobs:
             - name: Update
               run: |
                 packwiz update --all
-                Y
             - uses: stefanzweifel/git-auto-commit-action@v4
