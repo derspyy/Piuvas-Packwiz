@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "9d5d339c329cb7e2a8c7540da5dff5e81cb99b769986c3f88fcfa17d21477f18"
+hash = "5c05e7323ec7f46a986c6cb90a7cff289a9f5edf532ebcb90667a7c4ade3e519"
 metafile = true
 
 [[files]]
@@ -37,12 +37,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.toml"
-hash = "b25b3e65687162fe6b6b880b945a2841c3f15d03afd3ff95f0d84eae3f7220f7"
+hash = "0e8bc51131e510743ce495452a58a79a6a1d5469e5644230c34abf1465456728"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "05f054965d0aab61ddf3569fad49fd3ffb8d922c82fb0ec5d4f5cfb72679309f"
+hash = "bb9125b211bd88a79b263a0576aabb58446ebdabfa57f920866a56f2c8ff87ec"
 metafile = true
 
 [[files]]

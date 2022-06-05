@@ -1,12 +1,12 @@
 name = "Piuvas Packwiz"
 author = "piuvas"
 version = "3.0.0"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d732a5b94d4c12c5343a1af4a6336b7fa57192996af21819c784bc3fde8701c4"
+hash = "d3ab5d25cb4e3fc183474d4e41c656c51f82a2f2d82e54e3286fd441b506ac1e"
 
 [versions]
 fabric = "0.13.3"
